@@ -1,0 +1,5 @@
+os.elf
+os.map
+gengo.h
+shell.h
+.DS_Store
